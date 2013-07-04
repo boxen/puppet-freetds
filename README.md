@@ -1,5 +1,7 @@
 # Puppet module for FreeTDS
 
+[![Build Status](https://travis-ci.org/boxen/puppet-freetds.png?branch=master)](https://travis-ci.org/boxen/puppet-freetds)
+
 Installs FreeTDS.
 
 http://freetds.schemamania.org/
