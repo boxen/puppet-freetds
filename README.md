@@ -6,6 +6,12 @@ Installs FreeTDS.
 
 http://freetds.schemamania.org/
 
+## Usage
+
+```puppet
+include freetds
+```
+
 ## Required Puppet Modules
 
 * `boxen`
